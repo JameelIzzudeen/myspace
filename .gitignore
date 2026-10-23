@@ -1,6 +1,7 @@
 .vscode
 node_modules/
 .env*
+!.env*.example
 dist/
 test
 test_*
